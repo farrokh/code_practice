@@ -1,7 +1,7 @@
-# code_practice
+# Software Engineer Interview Preparation
 Hi!
-I'm a softwere engineer candidate and this is my reposetory of routine code problem practices. My goal is to record my submissions alongside with result statistics and any best solution (as far as I'm able to find) for each prblem.
+I'm a software engineer candidate and this is my repository of routine code problem practices. My goal is to record my submissions alongside result statistics and any best solution (as far as I'm able to find) for each problem.
 
 
-Good luck with your interview prepration journey.
+Good luck with your interview preparation journey.
 
